@@ -1,0 +1,25 @@
+.container {
+background: url(../images/04d07d17c02ec1a5b3b9c03921e250a9.jpg);
+background: url(../images/_bg_1.jpg);
+}
+
+
+.jumbotron {
+
+border: 2px dashed black;
+background-color: #fff;	
+}
+
+.table-bordered {
+    border: 3px solid #256686;
+}
+
+.task-description 
+{
+    padding: 30px;
+    background-color: #f8f8ff;
+    border-radius: 6px;
+    box-shadow: 1px 1px 2px 3px;
+}
+
+
